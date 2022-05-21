@@ -1,0 +1,5 @@
+names:
+- filament
+nc: 1
+train: /global/u1/c/cjacobus/ECEi_Detector/Custom Yolov5/datasets/New-COLOR-Filaments-1/train/images
+val: /global/u1/c/cjacobus/ECEi_Detector/Custom Yolov5/datasets/New-COLOR-Filaments-1/valid/images
